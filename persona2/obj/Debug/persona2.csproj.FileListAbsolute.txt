@@ -1,0 +1,11 @@
+C:\Users\nils.bergholtz\Desktop\persona2\obj\Debug\persona2.csproj.AssemblyReference.cache
+C:\Users\nils.bergholtz\Desktop\persona2\obj\Debug\persona2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nils.bergholtz\Desktop\persona2\obj\Debug\persona2.Form1.resources
+C:\Users\nils.bergholtz\Desktop\persona2\obj\Debug\persona2.Properties.Resources.resources
+C:\Users\nils.bergholtz\Desktop\persona2\obj\Debug\persona2.csproj.GenerateResource.cache
+C:\Users\nils.bergholtz\Desktop\persona2\obj\Debug\persona2.csproj.CoreCompileInputs.cache
+C:\Users\nils.bergholtz\Desktop\persona2\bin\Debug\persona2.exe.config
+C:\Users\nils.bergholtz\Desktop\persona2\bin\Debug\persona2.exe
+C:\Users\nils.bergholtz\Desktop\persona2\bin\Debug\persona2.pdb
+C:\Users\nils.bergholtz\Desktop\persona2\obj\Debug\persona2.exe
+C:\Users\nils.bergholtz\Desktop\persona2\obj\Debug\persona2.pdb
